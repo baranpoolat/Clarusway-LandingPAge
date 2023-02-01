@@ -1,0 +1,19 @@
+.bg-main {
+  background-color: #ea3d62;
+}
+
+.text-main {
+  color: #ea3d62;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
